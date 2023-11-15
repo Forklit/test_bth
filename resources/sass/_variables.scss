@@ -1,0 +1,23 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// пользовательские цвета
+$sadness: #374050 !default;
+$lucky: #0FC5FF !default;
+$phon: #E5E5E5 !default;
+
+// карта с цветами темы
+$theme-colors: (
+    "sadness": $sadness,
+    "lucky": $lucky,
+    "phon": $phon
+
+) !default;
+
+
+
